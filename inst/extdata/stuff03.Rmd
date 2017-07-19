@@ -1,6 +1,6 @@
 ---
 title: "Working with Docx Modifications"
-author: "Keith Baggerly"
+author: "Ray Baggerly"
 date: "5/14/2017"
 output:
   word_document: 
